@@ -1,4 +1,5 @@
 venv
-E1_images/*
+E1_images/combined/*
+E1_images/micro/*
+E1_images/macro/*
 E2_images/*
-*.gif
